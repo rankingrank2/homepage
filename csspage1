@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+header {
+  background-color: #005691;
+  color: #fff;
+  padding: 20px 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.main {
+  padding: 20px 0;
+}
+
+.content {
+  background-color: #f2f2f2;
+  padding: 40px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.content h2 {
+  font-size: 28px;
+  margin: 0;
+}
+
+/* 画像リンクの挿入箇所 */
+/* ここにjpgファイルのリンクを挿入してください */
